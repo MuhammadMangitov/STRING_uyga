@@ -15,6 +15,8 @@ namespace method1
             s1 += strings[0].Substring(0, 1);
             s2 += strings[1].Substring(0, 1);
             Console.WriteLine($"{s1}.{s2}.{strings[2]} {strings[3]}");
+
+
         }
     }
 }
